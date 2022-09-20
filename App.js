@@ -1,12 +1,11 @@
-import {BrowserRouter as Router, Routes, Route, Link, Navigate } from 'react-router-dom';
-import Switch from 'react-switch';
+import {BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import Login from './pages/login';
 import Feed from './pages/feed';
 import Profile from './pages/profile';
 import './pages/App.css'
 import Feedicon from './Nav icons/FeedIcon.png'
 import Profileicon from './Nav icons/ProfileIcon.png'
-import { useState } from 'react';
+
 
 function App() {
     
