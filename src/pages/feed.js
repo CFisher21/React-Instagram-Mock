@@ -21,54 +21,54 @@ import Thinking from './Profile/Thinking.jpg'
 import Trees from './Profile/Trees.jpg'
 
 
+
 function Feed(props) {
-    
     return (
       
 <div className="feed-magrin">
  <div className='feed-container'>
         <div className='storyTogether'>
-        <img src={man1} className='storyProfilepic'></img>
+        <img src={man1} className='storyProfilepic' alt=''></img>
         <p className='storyName'>ScottyLive</p>
         </div>
         <div className='storyTogether'>
-        <img src={man2} className='storyProfilepic'></img>
+        <img src={man2} className='storyProfilepic' alt=''></img>
         <p className='storyName'>Usernamed</p>
         </div>
         <div className='storyTogether'>
-        <img src={woman1} className='storyProfilepic'></img>
+        <img src={woman1} className='storyProfilepic' alt=''></img>
         <p className='storyName'>JanesWay</p>
         </div>
         <div className='storyTogether'>
-        <img src={man4} className='storyProfilepic'></img>
+        <img src={man4} className='storyProfilepic' alt=''></img>
         <p className='storyName'>f3ea</p>
         </div>
         <div className='storyTogether'>
-        <img src={woman2} className='storyProfilepic'></img>
+        <img src={woman2} className='storyProfilepic' alt=''></img>
         <p className='storyName'>SarahConnor</p>
         </div>
         <div className='storyTogether'>
-        <img src={man6} className='storyProfilepic'></img>
+        <img src={man6} className='storyProfilepic' alt=''></img>
         <p className='storyName'>Short</p>
         </div>
         <div className='storyTogether'>
-        <img src={man3} className='storyProfilepic'></img>
+        <img src={man3} className='storyProfilepic' alt=''></img>
         <p className='storyName'>AlwaysOnTime</p>
         </div>
         <div className='storyTogether'>
-        <img src={man5} className='storyProfilepic'></img>
+        <img src={man5} className='storyProfilepic' alt=''></img>
         <p className='storyName'>TacoTime</p>
         </div>
         <div className='storyTogether'>
-        <img src={woman4} className='storyProfilepic'></img>
+        <img src={woman4} className='storyProfilepic' alt=''></img>
         <p className='storyName'>Short</p>
         </div>
         <div className='storyTogether'>
-        <img src={woman3} className='storyProfilepic'></img>
+        <img src={woman3} className='storyProfilepic' alt=''></img>
         <p className='storyName'>AlwaysOnTime</p>
         </div>
         <div className='storyTogether'>
-        <img src={woman5} className='storyProfilepic'></img>
+        <img src={woman5} className='storyProfilepic' alt=''></img>
         <p className='storyName'>TacoTime</p>
         </div>
         </div>
@@ -76,62 +76,62 @@ function Feed(props) {
             <div className='userTogether'>
 
                 <div className='photoHeader'>
-                    <img src={man1} className='photoUserphoto'></img>
-                    {props.name ? <p className='photoUsername'>{props.name}</p> : null}
+                    <img src={man1} className='photoUserphoto' alt=""></img>
+                  {props.username ? <p className='photoUsername'>{props.username}</p> : null}
                 </div>
-                    <img src={BeachSunset} className='userPhoto'></img>
+                    <img src={BeachSunset} className='userPhoto' alt=""></img>
 
                 <div className='photoHeader'>
-                    <img src={man2} className='photoUserphoto'></img>
+                    <img src={man2} className='photoUserphoto' alt=""></img>
                     <p className='photoUsername'>AccountName</p>
                 </div>
-                    <img src={Birds} className='userPhoto'></img>
+                    <img src={Birds} className='userPhoto' alt=""></img>
 
                 <div className='photoHeader'>
-                    <img src={man3} className='photoUserphoto'></img>
+                    <img src={man3} className='photoUserphoto' alt=""></img>
                     <p className='photoUsername'>AccountName</p>
                 </div>
-                    <img src={Blue} className='userPhoto'></img>
+                    <img src={Blue} className='userPhoto' alt=""></img>
 
                 <div className='photoHeader'>
-                    <img src={man4} className='photoUserphoto'></img>
+                    <img src={man4} className='photoUserphoto' alt=""></img>
                     <p className='photoUsername'>AccountName</p>
                 </div>
-                    <img src={Boat} className='userPhoto'></img>
+                    <img src={Boat} className='userPhoto' alt=""></img>
 
                 <div className='photoHeader'>
-                    <img src={man5} className='photoUserphoto'></img>
+                    <img src={man5} className='photoUserphoto' alt=""></img>
                     <p className='photoUsername'>AccountName</p>
                 </div>
-                    <img src={Crossing} className='userPhoto'></img>
+                    <img src={Crossing} className='userPhoto' alt=""></img>
 
                 <div className='photoHeader'>
-                    <img src={man6} className='photoUserphoto'></img>
+                    <img src={man6} className='photoUserphoto' alt=""></img>
                     <p className='photoUsername'>AccountName</p>
                 </div>
-                    <img src={Mountian} className='userPhoto'></img>
+                    <img src={Mountian} className='userPhoto' alt=""></img>
 
                 <div className='photoHeader'>
-                    <img src={woman1} className='photoUserphoto'></img>
+                    <img src={woman1} className='photoUserphoto' alt=""></img>
                     <p className='photoUsername'>AccountName</p>
                 </div>
-                    <img src={Stars} className='userPhoto'></img>
+                    <img src={Stars} className='userPhoto' alt=""></img>
 
                 <div className='photoHeader'>
-                    <img src={woman2} className='photoUserphoto'></img>
+                    <img src={woman2} className='photoUserphoto' alt=""></img>
                     <p className='photoUsername'>AccountName</p>
                 </div>
-                    <img src={Sunset} className='userPhoto'></img>
+                    <img src={Sunset} className='userPhoto' alt=""></img>
                 <div className='photoHeader'>
-                    <img src={woman3} className='photoUserphoto'></img>
+                    <img src={woman3} className='photoUserphoto' alt=""></img>
                     <p className='photoUsername'>AccountName1</p>
                 </div>
-                <img src={Thinking} className='userPhoto'></img> 
+                <img src={Thinking} className='userPhoto' alt=""></img> 
                 <div className='photoHeader'>
-                    <img src={woman4} className='photoUserphoto'></img>
+                    <img src={woman4} className='photoUserphoto' alt=""></img>
                     <p className='photoUsername'>AccountName</p>
                 </div>
-                    <img src={Trees} className='userPhoto'></img>     
+                    <img src={Trees} className='userPhoto' alt=""></img>     
             </div>
         </div>
     </div>
