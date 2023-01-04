@@ -21,13 +21,12 @@ function App() {
                 <div className='nav-control'>
                 <Link to="/Feed" className='linkCenter'><img src={Feedicon} alt='123' className='navImg'></img></Link>
                 <Link to="/Profile" className='linkCenter'><img src={Profileicon} alt='123' className='navImg'></img></Link>
-                <Link to="/Login" className='linkCenter' id='loginButton2'><button className='loginButton3'>Login</button></Link>
+                <Link to="/" className='linkCenter' id='loginButton2'><button className='loginButton3'>Login</button></Link>
                 </div>
             </nav>
           <userContext.Provider > 
           <Routes>
               <Route path="/" element={<Login ></Login>}></Route>
-              <Route path="/Login" element={<Login ></Login>}></Route>
               <Route path='/Feed' element={<Feed ></Feed>}></Route>
               <Route path='/Profile' element={<Profile></Profile>}></Route>
             </Routes>
