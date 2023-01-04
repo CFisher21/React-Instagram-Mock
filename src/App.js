@@ -1,5 +1,5 @@
 import React from 'react';
-// When running the app "Line 2:26:  'Router' is defined but never used  no-unused-vars" shows in the console but if you remove the Router import the site does not display.
+// When running the app "Line 3:26:  'Router' is defined but never used  no-unused-vars" shows in the console but if you remove the Router import the site does not display.
 import {BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import Login from './pages/login';
 import Feed from './pages/feed';
