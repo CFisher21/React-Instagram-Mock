@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/react-instagram-mock/static/css/main.725cf9f1.css",
+    "main.js": "/react-instagram-mock/static/js/main.c6ee1b76.js",
+    "static/js/787.5aeb5f14.chunk.js": "/react-instagram-mock/static/js/787.5aeb5f14.chunk.js",
+    "static/media/woman5.jpg": "/react-instagram-mock/static/media/woman5.70b33f35d92599dffb17.jpg",
+    "static/media/Stars.jpg": "/react-instagram-mock/static/media/Stars.e7bbe6c3de5faac47432.jpg",
+    "static/media/man2.jpg": "/react-instagram-mock/static/media/man2.0756701561d99f9ce1f3.jpg",
+    "static/media/sunset.jpg": "/react-instagram-mock/static/media/sunset.553c720f8895cc470ada.jpg",
+    "static/media/ProfilePic.jpg": "/react-instagram-mock/static/media/ProfilePic.d90efca03eb63867443b.jpg",
+    "static/media/man6.jpg": "/react-instagram-mock/static/media/man6.7fefa0ee1dd98dd19b70.jpg",
+    "static/media/Beachsunset.jpg": "/react-instagram-mock/static/media/Beachsunset.8bf31a701972c4d5092d.jpg",
+    "static/media/Thinking.jpg": "/react-instagram-mock/static/media/Thinking.190a511ec52952c5c4fe.jpg",
+    "static/media/man5.jpg": "/react-instagram-mock/static/media/man5.4ab8af01a8235e14cedb.jpg",
+    "static/media/Trees.jpg": "/react-instagram-mock/static/media/Trees.c20fe3c85758e5d14be8.jpg",
+    "static/media/Birds.jpg": "/react-instagram-mock/static/media/Birds.74d50d7bf3da31cdb984.jpg",
+    "static/media/man1.jpg": "/react-instagram-mock/static/media/man1.18e045e17b6b222850ee.jpg",
+    "static/media/man3.jpg": "/react-instagram-mock/static/media/man3.2f89587bd8fd59b8c9f5.jpg",
+    "static/media/woman2.jpg": "/react-instagram-mock/static/media/woman2.1c0d2794822ea2472153.jpg",
+    "static/media/man4.jpg": "/react-instagram-mock/static/media/man4.1ecda0cd313cc7034be0.jpg",
+    "static/media/woman4.jpg": "/react-instagram-mock/static/media/woman4.f96cbf65d6bc07549db3.jpg",
+    "static/media/woman1.jpg": "/react-instagram-mock/static/media/woman1.990bf8344d8845fea242.jpg",
+    "static/media/Crossing.jpg": "/react-instagram-mock/static/media/Crossing.96ec195803ae4084d028.jpg",
+    "static/media/Mountian.jpg": "/react-instagram-mock/static/media/Mountian.89809ece4bcc920eadd9.jpg",
+    "static/media/Boat.jpg": "/react-instagram-mock/static/media/Boat.3e87681f656f94d7fb03.jpg",
+    "static/media/Blue.jpg": "/react-instagram-mock/static/media/Blue.d9f44494b40c0e6c9dfa.jpg",
+    "static/media/woman3.jpg": "/react-instagram-mock/static/media/woman3.d71e119a4202d26e48bd.jpg",
+    "index.html": "/react-instagram-mock/index.html",
+    "main.725cf9f1.css.map": "/react-instagram-mock/static/css/main.725cf9f1.css.map",
+    "main.c6ee1b76.js.map": "/react-instagram-mock/static/js/main.c6ee1b76.js.map",
+    "787.5aeb5f14.chunk.js.map": "/react-instagram-mock/static/js/787.5aeb5f14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.725cf9f1.css",
+    "static/js/main.c6ee1b76.js"
+  ]
+}
